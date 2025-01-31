@@ -1,0 +1,1 @@
+Appending data to an existing file helps in maintaining a continuous record.
