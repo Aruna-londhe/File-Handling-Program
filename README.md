@@ -96,4 +96,4 @@ File handling in C is a fundamental concept that allows programs to interact wit
 
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/0f4d1ba1-a1bb-42a4-9e9c-0b068255e01c)
