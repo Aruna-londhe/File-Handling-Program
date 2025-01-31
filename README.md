@@ -93,3 +93,7 @@ File handling is widely used in real-world applications, including:
 Conclusion
 
 File handling in C is a fundamental concept that allows programs to interact with external files efficiently. It is widely used in software development, database management, and system administration. By understanding file handling functions and best practices, developers can build reliable and scalable applications.
+
+OUTPUT:
+
+
